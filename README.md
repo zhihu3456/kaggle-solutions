@@ -71,3 +71,6 @@ To maximize your learning from past competitions, make sure to carefully review 
 
 ## Contribution
 If you discover a solution not listed here, please consider contributing to this repository by submitting a pull request.
+
+
+https://zhihu3456.github.io/kaggle-solutions
